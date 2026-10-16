@@ -1,5 +1,5 @@
 # -Veyon-
-Можно обойти пароль админа с помощью программы Elcomsoft System Recovery
+Можно обойти пароль админа с помощью программы Elcomsoft System Recovery , Reset Windows Password на борту Live-диска Сергея Стрельца
 
 Можно обойти с помощью https://github.com/ntdll0/Veyon-antispy на гитхабе, либо остановить службу Veyon в реестре.
 
