@@ -1,4 +1,6 @@
-# -Veyon- https://v16m.tiktokcdn-us.com/bf319a9b37f7ff2a4b192ac84e4f6f94/6ad26ba9/video/tos/alisg/tos-alisg-ve-0068c800-sg/own5gpDgpIprFe55ZUfBRY9Yy9liPzECAEB0PQ/?a=1233&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&&bt=1026&ft=kLx3-yt4ZZo0PDuAJz3aQ9nwDcC6JE.C~&mime_type=video_mp4&rc=ZzpkNjUzMzhmaWY4OTg4ZEBpM2w4Ong5cnltOTMzODczNEBgXy8yMWFeX18xYy4zYC4uYSNxbTFqMmRjcGdhLS1kMTFzcw%3D%3D&vvpl=1&l=20261016122043BF4899CBA634EC669E81&btag=e00090000
+# -Veyon- 
+[Саныч](https://v16m.tiktokcdn-us.com/bf319a9b37f7ff2a4b192ac84e4f6f94/6ad26ba9/video/tos/alisg/tos-alisg-ve-0068c800-sg/own5gpDgpIprFe55ZUfBRY9Yy9liPzECAEB0PQ/?a=1233&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&&bt=1026&ft=kLx3-yt4ZZo0PDuAJz3aQ9nwDcC6JE.C~&mime_type=video_mp4&rc=ZzpkNjUzMzhmaWY4OTg4ZEBpM2w4Ong5cnltOTMzODczNEBgXy8yMWFeX18xYy4zYC4uYSNxbTFqMmRjcGdhLS1kMTFzcw%3D%3D&vvpl=1&l=20261016122043BF4899CBA634EC669E81&btag=e00090000)
+[Видео](https://v16m.tiktokcdn-us.com/8ae3677ca44c44b270823b71570d565e/6ad26b93/video/tos/useast2a/tos-useast2a-ve-0068c003/o0m1XMSzJCbKHYWfh16G7AIgICH8NfVgSjE5bf/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=126&ft=4bUg3MMD8Zmo0OfrIa4jV68Ce_FrKsd.&mime_type=video_mp4&rc=MzxmNTdmOzY0ZDs3NTQ4O0BpMzp3N2Q6Znk5bTMzNzczM0A1XjRiL2AwXjAxYS00LzMxYSNnYGRkcjRnbnJgLS1kMTZzcw%3D%3D&vvpl=1&l=2026101612222368D11A3AD9FA216F662F&btag=e000c8000)
 Как включить встроенную учётную запись администратора
 Есть несколько способов.
 Через командную строку
