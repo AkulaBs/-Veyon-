@@ -1,4 +1,4 @@
-# -Veyon-
+# -Veyon- https://v16m.tiktokcdn-us.com/bf319a9b37f7ff2a4b192ac84e4f6f94/6ad26ba9/video/tos/alisg/tos-alisg-ve-0068c800-sg/own5gpDgpIprFe55ZUfBRY9Yy9liPzECAEB0PQ/?a=1233&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&&bt=1026&ft=kLx3-yt4ZZo0PDuAJz3aQ9nwDcC6JE.C~&mime_type=video_mp4&rc=ZzpkNjUzMzhmaWY4OTg4ZEBpM2w4Ong5cnltOTMzODczNEBgXy8yMWFeX18xYy4zYC4uYSNxbTFqMmRjcGdhLS1kMTFzcw%3D%3D&vvpl=1&l=20261016122043BF4899CBA634EC669E81&btag=e00090000
 Как включить встроенную учётную запись администратора
 Есть несколько способов.
 Через командную строку
